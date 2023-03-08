@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+    width: 400px;
+    height: 700px;
+    margin: 0% auto;
+    background: #fafafa;
+    border: solid 1px #dcdcdc;
+    margin-top: 270px;
+}
+.surati {
+    margin-top: 97px;
+    width: 159.24px;
+    height: 146.57px;
+}
+.satauri {
+    width: 273px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    margin-left: 55px;
+}
+
+.span1 {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;
+    width: 476px;
+    height: 311px;
+}
